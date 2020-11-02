@@ -1,5 +1,5 @@
-feet = float(input(' enter a number : '))
-type = input(" enter a number in meter/cm/mm : ")
+feet = float(input(' enter your height in foot : '))
+type = input(" enter a number in meter/cm/mmww   : ")
 
 if type == 'meter':
     print(feet * 0.3048)
